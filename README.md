@@ -1,4 +1,4 @@
-# Agentic-Load-Balancer-Softmax
+
 # Agentic Load Balancer: Softmax Optimization & Numerical Stability
 
 Bu proje, dağıtık sistem mimarilerinde sunucu yük dengeleme (load balancing) problemini, Takviyeli Öğrenme (Reinforcement Learning) prensiplerinden olan **Softmax Algoritması** ile çözen akıllı bir simülasyondur.
